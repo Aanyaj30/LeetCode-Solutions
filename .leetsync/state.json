@@ -1,18 +1,42 @@
 {
   "v": 1,
-  "updatedAt": 1791304919701,
+  "updatedAt": 1791305046999,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791304919333
+      "lastSeen": 1791305045402
     }
   },
-  "problems": {},
-  "achievements": {},
+  "problems": {
+    "1343": {
+      "attempts": 1,
+      "bestMemory": "71.4 MB (Beats 96%)",
+      "bestRuntime": "4 ms (Beats 27%)",
+      "date": "2026-10-06",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-06",
+      "folderName": "1343-Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold",
+      "language": "Java",
+      "number": 1343,
+      "slug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+      "solutionCount": 2,
+      "tags": [
+        "Array",
+        "Sliding Window"
+      ],
+      "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+      "at": 1791305045402
+    }
+  },
+  "achievements": {
+    "first_blood": 1791304949602
+  },
   "sheets": {},
-  "days": [],
+  "days": [
+    "2026-10-06"
+  ],
   "bests": {
-    "longestStreak": 0,
-    "pushes": 0
+    "longestStreak": 1,
+    "pushes": 2
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
