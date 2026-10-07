@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791352622080,
+  "updatedAt": 1791352746468,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791352620612
+      "lastSeen": 1791352745382
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1791352620612
+      "at": 1791352745382
     }
   },
   "achievements": {
