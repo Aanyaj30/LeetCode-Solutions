@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791354511871,
+  "updatedAt": 1791354846632,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791354506445
+      "lastSeen": 1791354845382
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1791354506445
+      "at": 1791354845382
     },
     "1876": {
       "attempts": 1,
@@ -45,7 +45,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1791354506445
+      "at": 1791354845382
     }
   },
   "achievements": {
