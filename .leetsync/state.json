@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791352787303,
+  "updatedAt": 1791353046302,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791352785886
+      "lastSeen": 1791353045390
     }
   },
   "problems": {
@@ -24,7 +24,28 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1791352785886
+      "at": 1791353045390
+    },
+    "1876": {
+      "attempts": 1,
+      "bestMemory": "42.6 MB (Beats 88%)",
+      "bestRuntime": "1 ms (Beats 96%)",
+      "date": "2026-10-07",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-07",
+      "folderName": "1876-Substrings-of-Size-Three-with-Distinct-Characters",
+      "language": "Java",
+      "number": 1876,
+      "slug": "substrings-of-size-three-with-distinct-characters",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window",
+        "Counting"
+      ],
+      "title": "Substrings of Size Three with Distinct Characters",
+      "at": 1791353045390
     }
   },
   "achievements": {
@@ -33,11 +54,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-10-06"
+    "2026-10-06",
+    "2026-10-07"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 2
+    "longestStreak": 2,
+    "pushes": 3
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
