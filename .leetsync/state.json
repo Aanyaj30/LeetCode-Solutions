@@ -1,16 +1,16 @@
 {
   "v": 1,
-  "updatedAt": 1791731304110,
+  "updatedAt": 1791731600162,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791731298582
+      "lastSeen": 1791731598574
     }
   },
   "problems": {
     "3": {
-      "attempts": 1,
-      "bestMemory": "48 MB (Beats 42%)",
-      "bestRuntime": "75 ms (Beats 17%)",
+      "attempts": 2,
+      "bestMemory": "48.1 MB (Beats 26%)",
+      "bestRuntime": "45 ms (Beats 70%)",
       "date": "2026-10-11",
       "difficulty": "Medium",
       "firstSolvedOn": "2026-10-11",
@@ -18,14 +18,14 @@
       "language": "Java",
       "number": 3,
       "slug": "longest-substring-without-repeating-characters",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Hash Table",
         "String",
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1791731298582
+      "at": 1791731598574
     },
     "209": {
       "attempts": 1,
@@ -46,7 +46,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1791731298582
+      "at": 1791731598574
     },
     "1343": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1791731298582
+      "at": 1791731598574
     },
     "1456": {
       "attempts": 1,
@@ -84,7 +84,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1791731298582
+      "at": 1791731598574
     },
     "1876": {
       "attempts": 1,
@@ -105,7 +105,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1791731298582
+      "at": 1791731598574
     },
     "3090": {
       "attempts": 1,
@@ -125,7 +125,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Length Substring With Two Occurrences",
-      "at": 1791731298582
+      "at": 1791731598574
     }
   },
   "achievements": {
@@ -140,7 +140,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 7
+    "pushes": 8
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
