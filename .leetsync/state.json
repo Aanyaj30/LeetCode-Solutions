@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791726746787,
+  "updatedAt": 1791729713622,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791726744980
+      "lastSeen": 1791729713168
     }
   },
   "problems": {
@@ -26,7 +26,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1791726744980
+      "at": 1791729713168
     },
     "1343": {
       "attempts": 1,
@@ -45,7 +45,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1791726744980
+      "at": 1791729713168
     },
     "1456": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1791726744980
+      "at": 1791729713168
     },
     "1876": {
       "attempts": 1,
@@ -85,7 +85,27 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1791726744980
+      "at": 1791729713168
+    },
+    "3090": {
+      "attempts": 1,
+      "bestMemory": "43.9 MB (Beats 33%)",
+      "bestRuntime": "3 ms (Beats 34%)",
+      "date": "2026-10-11",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-11",
+      "folderName": "3090-Maximum-Length-Substring-With-Two-Occurrences",
+      "language": "Java",
+      "number": 3090,
+      "slug": "maximum-length-substring-with-two-occurrences",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "title": "Maximum Length Substring With Two Occurrences",
+      "at": 1791729713168
     }
   },
   "achievements": {
@@ -100,7 +120,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 5
+    "pushes": 6
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
