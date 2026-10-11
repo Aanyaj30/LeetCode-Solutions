@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791723800689,
+  "updatedAt": 1791724100640,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791723798569
+      "lastSeen": 1791724098569
     }
   },
   "problems": {
@@ -24,7 +24,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1791723798569
+      "at": 1791724098569
     },
     "1456": {
       "attempts": 1,
@@ -43,7 +43,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1791723798569
+      "at": 1791724098569
     },
     "1876": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1791723798569
+      "at": 1791724098569
     }
   },
   "achievements": {
