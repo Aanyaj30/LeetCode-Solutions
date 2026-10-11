@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791355326472,
+  "updatedAt": 1791721698927,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1791355325357
+      "lastSeen": 1791721698378
     }
   },
   "problems": {
@@ -24,7 +24,26 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1791355325357
+      "at": 1791721698378
+    },
+    "1456": {
+      "attempts": 1,
+      "bestMemory": "46.6 MB (Beats 36%)",
+      "bestRuntime": "15 ms (Beats 42%)",
+      "date": "2026-10-07",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-07",
+      "folderName": "1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length",
+      "language": "Java",
+      "number": 1456,
+      "slug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Sliding Window"
+      ],
+      "title": "Maximum Number of Vowels in a Substring of Given Length",
+      "at": 1791721698378
     },
     "1876": {
       "attempts": 1,
@@ -45,7 +64,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1791355325357
+      "at": 1791721698378
     }
   },
   "achievements": {
@@ -59,7 +78,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 3
+    "pushes": 4
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
