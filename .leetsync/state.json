@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792080413293,
+  "updatedAt": 1792080711182,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1792080410665
+      "lastSeen": 1792080710668
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1792080410665
+      "at": 1792080710668
     },
     "209": {
       "attempts": 1,
@@ -46,7 +46,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1792080410665
+      "at": 1792080710668
     },
     "1343": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1792080410665
+      "at": 1792080710668
     },
     "1456": {
       "attempts": 1,
@@ -84,7 +84,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1792080410665
+      "at": 1792080710668
     },
     "1876": {
       "attempts": 1,
@@ -105,7 +105,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1792080410665
+      "at": 1792080710668
     },
     "2958": {
       "attempts": 1,
@@ -125,7 +125,7 @@
         "Sliding Window"
       ],
       "title": "Length of Longest Subarray With at Most K Frequency",
-      "at": 1792080410665
+      "at": 1792080710668
     },
     "3090": {
       "attempts": 1,
@@ -145,7 +145,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Length Substring With Two Occurrences",
-      "at": 1792080410665
+      "at": 1792080710668
     }
   },
   "achievements": {
