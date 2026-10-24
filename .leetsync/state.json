@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792853790593,
+  "updatedAt": 1792854045576,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1792853790035
+      "lastSeen": 1792854045090
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "162": {
       "attempts": 1,
@@ -44,7 +44,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "209": {
       "attempts": 1,
@@ -65,7 +65,28 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1792853790035
+      "at": 1792854045090
+    },
+    "387": {
+      "attempts": 1,
+      "bestMemory": "46.5 MB (Beats 92%)",
+      "bestRuntime": "7 ms (Beats 59%)",
+      "date": "2026-10-24",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-24",
+      "folderName": "0387-First-Unique-Character-in-a-String",
+      "language": "Java",
+      "number": 387,
+      "slug": "first-unique-character-in-a-string",
+      "solutionCount": 1,
+      "tags": [
+        "Hash Table",
+        "String",
+        "Queue",
+        "Counting"
+      ],
+      "title": "First Unique Character in a String",
+      "at": 1792854045090
     },
     "1095": {
       "attempts": 2,
@@ -86,7 +107,7 @@
         "Ternary Search"
       ],
       "title": "Find in Mountain Array",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "1343": {
       "attempts": 1,
@@ -105,7 +126,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "1431": {
       "attempts": 1,
@@ -123,7 +144,7 @@
         "Array"
       ],
       "title": "Kids With the Greatest Number of Candies",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "1456": {
       "attempts": 1,
@@ -142,7 +163,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "1876": {
       "attempts": 1,
@@ -163,7 +184,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "2351": {
       "attempts": 1,
@@ -184,7 +205,7 @@
         "Counting"
       ],
       "title": "First Letter to Appear Twice",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "2958": {
       "attempts": 1,
@@ -204,7 +225,7 @@
         "Sliding Window"
       ],
       "title": "Length of Longest Subarray With at Most K Frequency",
-      "at": 1792853790035
+      "at": 1792854045090
     },
     "3090": {
       "attempts": 1,
@@ -224,10 +245,11 @@
         "Sliding Window"
       ],
       "title": "Maximum Length Substring With Two Occurrences",
-      "at": 1792853790035
+      "at": 1792854045090
     }
   },
   "achievements": {
+    "bookworm": 1792853803865,
     "deca": 1792845676634,
     "early_bird": 1791336549826,
     "first_blood": 1791304949602
@@ -241,7 +263,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 14
+    "pushes": 15
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
