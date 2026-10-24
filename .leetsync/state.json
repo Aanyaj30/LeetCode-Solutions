@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792845222720,
+  "updatedAt": 1792845352677,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1792845222235
+      "lastSeen": 1792845345081
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1792845222235
+      "at": 1792845345081
     },
     "209": {
       "attempts": 1,
@@ -46,7 +46,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1792845222235
+      "at": 1792845345081
     },
     "1343": {
       "attempts": 1,
@@ -65,7 +65,25 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1792845222235
+      "at": 1792845345081
+    },
+    "1431": {
+      "attempts": 1,
+      "bestMemory": "43.4 MB (Beats 94%)",
+      "bestRuntime": "1 ms (Beats 95%)",
+      "date": "2026-10-24",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-24",
+      "folderName": "1431-Kids-With-the-Greatest-Number-of-Candies",
+      "language": "Java",
+      "number": 1431,
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "solutionCount": 1,
+      "tags": [
+        "Array"
+      ],
+      "title": "Kids With the Greatest Number of Candies",
+      "at": 1792845345081
     },
     "1456": {
       "attempts": 1,
@@ -84,7 +102,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1792845222235
+      "at": 1792845345081
     },
     "1876": {
       "attempts": 1,
@@ -105,7 +123,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1792845222235
+      "at": 1792845345081
     },
     "2958": {
       "attempts": 1,
@@ -125,7 +143,7 @@
         "Sliding Window"
       ],
       "title": "Length of Longest Subarray With at Most K Frequency",
-      "at": 1792845222235
+      "at": 1792845345081
     },
     "3090": {
       "attempts": 1,
@@ -145,7 +163,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Length Substring With Two Occurrences",
-      "at": 1792845222235
+      "at": 1792845345081
     }
   },
   "achievements": {
@@ -156,11 +174,12 @@
   "days": [
     "2026-10-06",
     "2026-10-07",
-    "2026-10-11"
+    "2026-10-11",
+    "2026-10-24"
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 9
+    "pushes": 10
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
