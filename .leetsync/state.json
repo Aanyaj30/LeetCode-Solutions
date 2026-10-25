@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792904065900,
+  "updatedAt": 1792904145655,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1792904065376
+      "lastSeen": 1792904145097
     }
   },
   "problems": {
@@ -25,7 +25,27 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1792904065376
+      "at": 1792904145097
+    },
+    "74": {
+      "attempts": 1,
+      "bestMemory": "43.1 MB (Beats 98%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-25",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-25",
+      "folderName": "0074-Search-a-2D-Matrix",
+      "language": "Java",
+      "number": 74,
+      "slug": "search-a-2d-matrix",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Binary Search",
+        "Matrix"
+      ],
+      "title": "Search a 2D Matrix",
+      "at": 1792904145097
     },
     "162": {
       "attempts": 1,
@@ -44,7 +64,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "209": {
       "attempts": 1,
@@ -65,7 +85,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "387": {
       "attempts": 1,
@@ -86,7 +106,7 @@
         "Counting"
       ],
       "title": "First Unique Character in a String",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "1095": {
       "attempts": 2,
@@ -107,7 +127,7 @@
         "Ternary Search"
       ],
       "title": "Find in Mountain Array",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "1343": {
       "attempts": 1,
@@ -126,7 +146,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "1431": {
       "attempts": 1,
@@ -144,7 +164,7 @@
         "Array"
       ],
       "title": "Kids With the Greatest Number of Candies",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "1456": {
       "attempts": 1,
@@ -163,7 +183,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "1876": {
       "attempts": 1,
@@ -184,7 +204,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "2351": {
       "attempts": 1,
@@ -205,7 +225,7 @@
         "Counting"
       ],
       "title": "First Letter to Appear Twice",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "2958": {
       "attempts": 1,
@@ -225,7 +245,7 @@
         "Sliding Window"
       ],
       "title": "Length of Longest Subarray With at Most K Frequency",
-      "at": 1792904065376
+      "at": 1792904145097
     },
     "3090": {
       "attempts": 1,
@@ -245,7 +265,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Length Substring With Two Occurrences",
-      "at": 1792904065376
+      "at": 1792904145097
     }
   },
   "achievements": {
@@ -259,11 +279,12 @@
     "2026-10-06",
     "2026-10-07",
     "2026-10-11",
-    "2026-10-24"
+    "2026-10-24",
+    "2026-10-25"
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 15
+    "pushes": 16
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
