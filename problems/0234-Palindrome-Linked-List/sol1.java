@@ -1,0 +1,55 @@
+// ==========================================================
+// 234. Palindrome Linked List
+// Difficulty : Easy
+// Language   : Java
+// Solution   : #1
+// Runtime    : 5 ms (Beats 43%)
+// Memory     : 93.9 MB (Beats 92%)
+// Link       : https://leetcode.com/problems/palindrome-linked-list/
+// ==========================================================
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        if(head == null || head.next == null){
+            return true;
+        }
+        ListNode mid = findMid(head);
+        ListNode prev = null;
+        ListNode curr = mid;
+        while(curr!=null){
+            ListNode next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+        }
+        ListNode right = prev;
+        ListNode left = head;
+        while(right != null){
+            if(right.val != left.val){
+                return false;
+            }
+            left = left.next;
+            right = right.next;
+        }
+        return true;
+    }
+    private ListNode findMid(ListNode head){
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+}
