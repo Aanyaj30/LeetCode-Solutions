@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793377680435,
+  "updatedAt": 1793377755483,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1793377678280
+      "lastSeen": 1793377752740
     }
   },
   "problems": {
@@ -25,7 +25,26 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1793377678280
+      "at": 1793377752740
+    },
+    "19": {
+      "attempts": 1,
+      "bestMemory": "43.1 MB (Beats 87%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-10-30",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-30",
+      "folderName": "0019-Remove-Nth-Node-From-End-of-List",
+      "language": "Java",
+      "number": 19,
+      "slug": "remove-nth-node-from-end-of-list",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "title": "Remove Nth Node From End of List",
+      "at": 1793377752740
     },
     "34": {
       "attempts": 1,
@@ -44,7 +63,7 @@
         "Binary Search"
       ],
       "title": "Find First and Last Position of Element in Sorted Array",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "56": {
       "attempts": 1,
@@ -64,7 +83,7 @@
         "Quicksort"
       ],
       "title": "Merge Intervals",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "57": {
       "attempts": 1,
@@ -82,7 +101,7 @@
         "Array"
       ],
       "title": "Insert Interval",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "74": {
       "attempts": 1,
@@ -102,7 +121,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "162": {
       "attempts": 1,
@@ -121,7 +140,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "209": {
       "attempts": 1,
@@ -142,7 +161,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "387": {
       "attempts": 1,
@@ -163,7 +182,7 @@
         "Counting"
       ],
       "title": "First Unique Character in a String",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "875": {
       "attempts": 3,
@@ -182,7 +201,7 @@
         "Binary Search"
       ],
       "title": "Koko Eating Bananas",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "1011": {
       "attempts": 1,
@@ -201,7 +220,7 @@
         "Binary Search"
       ],
       "title": "Capacity To Ship Packages Within D Days",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "1095": {
       "attempts": 2,
@@ -222,7 +241,7 @@
         "Ternary Search"
       ],
       "title": "Find in Mountain Array",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "1343": {
       "attempts": 1,
@@ -241,7 +260,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "1431": {
       "attempts": 1,
@@ -259,7 +278,7 @@
         "Array"
       ],
       "title": "Kids With the Greatest Number of Candies",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "1456": {
       "attempts": 1,
@@ -278,7 +297,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "1870": {
       "attempts": 1,
@@ -297,7 +316,7 @@
         "Binary Search"
       ],
       "title": "Minimum Speed to Arrive on Time",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "1876": {
       "attempts": 1,
@@ -318,7 +337,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "2351": {
       "attempts": 1,
@@ -339,7 +358,7 @@
         "Counting"
       ],
       "title": "First Letter to Appear Twice",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "2958": {
       "attempts": 1,
@@ -359,7 +378,7 @@
         "Sliding Window"
       ],
       "title": "Length of Longest Subarray With at Most K Frequency",
-      "at": 1793377678280
+      "at": 1793377752740
     },
     "3090": {
       "attempts": 1,
@@ -379,7 +398,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Length Substring With Two Occurrences",
-      "at": 1793377678280
+      "at": 1793377752740
     }
   },
   "achievements": {
@@ -399,11 +418,12 @@
     "2026-10-25",
     "2026-10-27",
     "2026-10-28",
-    "2026-10-29"
+    "2026-10-29",
+    "2026-10-30"
   ],
   "bests": {
-    "longestStreak": 3,
-    "pushes": 22
+    "longestStreak": 4,
+    "pushes": 23
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
