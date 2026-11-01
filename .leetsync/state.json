@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1793547821885,
+  "updatedAt": 1793547927104,
   "devices": {
     "909f4060-5ab6-4314-8218-64d03006d46d": {
-      "lastSeen": 1793547820677
+      "lastSeen": 1793547926119
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Recursion"
       ],
       "title": "Add Two Numbers",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "3": {
       "attempts": 2,
@@ -45,7 +45,7 @@
         "Sliding Window"
       ],
       "title": "Longest Substring Without Repeating Characters",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "19": {
       "attempts": 1,
@@ -64,7 +64,7 @@
         "Two Pointers"
       ],
       "title": "Remove Nth Node From End of List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "21": {
       "attempts": 2,
@@ -83,7 +83,7 @@
         "Recursion"
       ],
       "title": "Merge Two Sorted Lists",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "24": {
       "attempts": 1,
@@ -102,7 +102,7 @@
         "Recursion"
       ],
       "title": "Swap Nodes in Pairs",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "34": {
       "attempts": 1,
@@ -121,7 +121,7 @@
         "Binary Search"
       ],
       "title": "Find First and Last Position of Element in Sorted Array",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "56": {
       "attempts": 1,
@@ -141,7 +141,7 @@
         "Quicksort"
       ],
       "title": "Merge Intervals",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "57": {
       "attempts": 1,
@@ -159,7 +159,7 @@
         "Array"
       ],
       "title": "Insert Interval",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "74": {
       "attempts": 1,
@@ -179,7 +179,7 @@
         "Matrix"
       ],
       "title": "Search a 2D Matrix",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "82": {
       "attempts": 2,
@@ -198,7 +198,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted List II",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "83": {
       "attempts": 1,
@@ -216,7 +216,25 @@
         "Linked List"
       ],
       "title": "Remove Duplicates from Sorted List",
-      "at": 1793547820677
+      "at": 1793547926119
+    },
+    "92": {
+      "attempts": 1,
+      "bestMemory": "42.4 MB (Beats 91%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-11-01",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-11-01",
+      "folderName": "0092-Reverse-Linked-List-II",
+      "language": "Java",
+      "number": 92,
+      "slug": "reverse-linked-list-ii",
+      "solutionCount": 1,
+      "tags": [
+        "Linked List"
+      ],
+      "title": "Reverse Linked List II",
+      "at": 1793547926119
     },
     "141": {
       "attempts": 2,
@@ -237,7 +255,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "142": {
       "attempts": 1,
@@ -258,7 +276,7 @@
         "Floyd's Cycle Finding Algorithm"
       ],
       "title": "Linked List Cycle II",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "143": {
       "attempts": 2,
@@ -279,7 +297,7 @@
         "Recursion"
       ],
       "title": "Reorder List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "148": {
       "attempts": 1,
@@ -301,7 +319,7 @@
         "Merge Sort"
       ],
       "title": "Sort List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "160": {
       "attempts": 2,
@@ -321,7 +339,7 @@
         "Two Pointers"
       ],
       "title": "Intersection of Two Linked Lists",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "162": {
       "attempts": 1,
@@ -340,7 +358,7 @@
         "Binary Search"
       ],
       "title": "Find Peak Element",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "203": {
       "attempts": 1,
@@ -359,7 +377,7 @@
         "Recursion"
       ],
       "title": "Remove Linked List Elements",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "206": {
       "attempts": 1,
@@ -378,7 +396,7 @@
         "Recursion"
       ],
       "title": "Reverse Linked List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "209": {
       "attempts": 1,
@@ -399,7 +417,7 @@
         "Prefix Sum"
       ],
       "title": "Minimum Size Subarray Sum",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "234": {
       "attempts": 1,
@@ -420,7 +438,7 @@
         "Recursion"
       ],
       "title": "Palindrome Linked List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "237": {
       "attempts": 1,
@@ -438,7 +456,7 @@
         "Linked List"
       ],
       "title": "Delete Node in a Linked List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "387": {
       "attempts": 1,
@@ -459,7 +477,7 @@
         "Counting"
       ],
       "title": "First Unique Character in a String",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "445": {
       "attempts": 1,
@@ -479,7 +497,7 @@
         "Stack"
       ],
       "title": "Add Two Numbers II",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "453": {
       "attempts": 1,
@@ -498,7 +516,7 @@
         "Math"
       ],
       "title": "Minimum Moves to Equal Array Elements",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "875": {
       "attempts": 3,
@@ -517,7 +535,7 @@
         "Binary Search"
       ],
       "title": "Koko Eating Bananas",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "876": {
       "attempts": 1,
@@ -536,7 +554,7 @@
         "Two Pointers"
       ],
       "title": "Middle of the Linked List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1011": {
       "attempts": 1,
@@ -555,7 +573,7 @@
         "Binary Search"
       ],
       "title": "Capacity To Ship Packages Within D Days",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1095": {
       "attempts": 2,
@@ -576,7 +594,7 @@
         "Ternary Search"
       ],
       "title": "Find in Mountain Array",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1343": {
       "attempts": 1,
@@ -595,7 +613,7 @@
         "Sliding Window"
       ],
       "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1431": {
       "attempts": 1,
@@ -613,7 +631,7 @@
         "Array"
       ],
       "title": "Kids With the Greatest Number of Candies",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1456": {
       "attempts": 1,
@@ -632,7 +650,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Number of Vowels in a Substring of Given Length",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1669": {
       "attempts": 1,
@@ -650,7 +668,7 @@
         "Linked List"
       ],
       "title": "Merge In Between Linked Lists",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1870": {
       "attempts": 1,
@@ -669,7 +687,7 @@
         "Binary Search"
       ],
       "title": "Minimum Speed to Arrive on Time",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "1876": {
       "attempts": 1,
@@ -690,7 +708,7 @@
         "Counting"
       ],
       "title": "Substrings of Size Three with Distinct Characters",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "2095": {
       "attempts": 1,
@@ -709,7 +727,7 @@
         "Two Pointers"
       ],
       "title": "Delete the Middle Node of a Linked List",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "2351": {
       "attempts": 1,
@@ -730,7 +748,7 @@
         "Counting"
       ],
       "title": "First Letter to Appear Twice",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "2958": {
       "attempts": 1,
@@ -750,7 +768,7 @@
         "Sliding Window"
       ],
       "title": "Length of Longest Subarray With at Most K Frequency",
-      "at": 1793547820677
+      "at": 1793547926119
     },
     "3090": {
       "attempts": 1,
@@ -770,7 +788,7 @@
         "Sliding Window"
       ],
       "title": "Maximum Length Substring With Two Occurrences",
-      "at": 1793547820677
+      "at": 1793547926119
     }
   },
   "achievements": {
@@ -799,7 +817,7 @@
   ],
   "bests": {
     "longestStreak": 6,
-    "pushes": 46
+    "pushes": 47
   },
   "identity": {
     "installId": "a25b21cf-6c62-44e3-a90c-dda15cbb962d",
