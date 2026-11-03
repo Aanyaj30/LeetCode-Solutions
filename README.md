@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-44%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-16%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-45%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-17%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-1%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1929 | [Concatenation of Array](problems/1929-Concatenation-of-Array) | 🟩 Easy | `Java` | 2026-11-03 |
+| 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1480 | [Running Sum of 1d Array](problems/1480-Running-Sum-of-1d-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1464 | [Maximum Product of Two Elements in an Array](problems/1464-Maximum-Product-of-Two-Elements-in-an-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 | 462 | [Minimum Moves to Equal Array Elements II](problems/0462-Minimum-Moves-to-Equal-Array-Elements-II) | 🟧 Medium | `Java` | 2026-11-02 |
@@ -40,10 +41,9 @@
 | 453 | [Minimum Moves to Equal Array Elements](problems/0453-Minimum-Moves-to-Equal-Array-Elements) | 🟧 Medium | `Java` | 2026-11-01 |
 | 203 | [Remove Linked List Elements](problems/0203-Remove-Linked-List-Elements) | 🟩 Easy | `Java` | 2026-11-01 |
 | 92 | [Reverse Linked List II](problems/0092-Reverse-Linked-List-II) | 🟧 Medium | `Java` | 2026-11-01 |
-| 82 | [Remove Duplicates from Sorted List II](problems/0082-Remove-Duplicates-from-Sorted-List-II) | 🟧 Medium | `Java` | 2026-11-01 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 16 solved</summary>
+<summary><strong>🟩 Easy</strong> — 17 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -59,6 +59,7 @@
 | 1431 | [Kids With the Greatest Number of Candies](problems/1431-Kids-With-the-Greatest-Number-of-Candies) | 🟩 Easy | `Java` | 2026-10-24 |
 | 1464 | [Maximum Product of Two Elements in an Array](problems/1464-Maximum-Product-of-Two-Elements-in-an-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1480 | [Running Sum of 1d Array](problems/1480-Running-Sum-of-1d-Array) | 🟩 Easy | `Java` | 2026-11-03 |
+| 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1876 | [Substrings of Size Three with Distinct Characters](problems/1876-Substrings-of-Size-Three-with-Distinct-Characters) | 🟩 Easy | `Java` | 2026-10-07 |
 | 1929 | [Concatenation of Array](problems/1929-Concatenation-of-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 | 2351 | [First Letter to Appear Twice](problems/2351-First-Letter-to-Appear-Twice) | 🟩 Easy | `Java` | 2026-10-24 |
