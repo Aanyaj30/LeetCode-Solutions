@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Array, Two Pointers, Binary Search, Sorting — best runtime 9 ms (Beats 20%), best memory 46.3 MB (Beats 35%)" src="panel-dark.svg">
+  <img alt="Topics: Array, Two Pointers, Binary Search, Sorting — best runtime 7 ms (Beats 30%), best memory 46.5 MB (Beats 24%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -26,9 +26,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 2 before accepted |
-| **Time to solve** | 22 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted |
+| **Attempts** | 3 before accepted |
+| **Time to solve** | 27 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 
