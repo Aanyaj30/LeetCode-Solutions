@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-51%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-27%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-52%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-28%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-2%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2747 | [Count Zero Request Servers](problems/2747-Count-Zero-Request-Servers) | 🟧 Medium | `Java` | 2026-11-06 |
 | 1385 | [Find the Distance Value Between Two Arrays](problems/1385-Find-the-Distance-Value-Between-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-05 |
 | 414 | [Third Maximum Number](problems/0414-Third-Maximum-Number) | 🟩 Easy | `Java` | 2026-11-05 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-11-05 |
@@ -40,7 +41,6 @@
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1480 | [Running Sum of 1d Array](problems/1480-Running-Sum-of-1d-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1470 | [Shuffle the Array](problems/1470-Shuffle-the-Array) | 🟩 Easy | `Java` | 2026-11-03 |
-| 1464 | [Maximum Product of Two Elements in an Array](problems/1464-Maximum-Product-of-Two-Elements-in-an-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 22 solved</summary>
@@ -73,7 +73,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 27 solved</summary>
+<summary><strong>🟧 Medium</strong> — 28 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -103,6 +103,7 @@
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `Java` | 2026-11-01 |
 | 1870 | [Minimum Speed to Arrive on Time](problems/1870-Minimum-Speed-to-Arrive-on-Time) | 🟧 Medium | `Java` | 2026-10-27 |
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-Delete-the-Middle-Node-of-a-Linked-List) | 🟧 Medium | `Java` | 2026-11-01 |
+| 2747 | [Count Zero Request Servers](problems/2747-Count-Zero-Request-Servers) | 🟧 Medium | `Java` | 2026-11-06 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](problems/2958-Length-of-Longest-Subarray-With-at-Most-K-Frequency) | 🟧 Medium | `Java` | 2026-10-11 |
 
 </details>
