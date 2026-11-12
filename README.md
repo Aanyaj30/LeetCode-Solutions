@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-56%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-22%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-31%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-3%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-57%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-23%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-31%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-3%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Java` | 2026-11-12 |
 | 3789 | [Minimum Cost to Acquire Required Items](problems/3789-Minimum-Cost-to-Acquire-Required-Items) | 🟧 Medium | `Java` | 2026-11-11 |
 | 3693 | [Climbing Stairs II](problems/3693-Climbing-Stairs-II) | 🟧 Medium | `Java` | 2026-11-10 |
 | 1606 | [Find Servers That Handled Most Number of Requests](problems/1606-Find-Servers-That-Handled-Most-Number-of-Requests) | 🟥 Hard | `Java` | 2026-11-09 |
@@ -40,10 +41,9 @@
 | 414 | [Third Maximum Number](problems/0414-Third-Maximum-Number) | 🟩 Easy | `Java` | 2026-11-05 |
 | 217 | [Contains Duplicate](problems/0217-Contains-Duplicate) | 🟩 Easy | `Java` | 2026-11-05 |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](problems/3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal) | 🟥 Hard | `Java` | 2026-11-04 |
-| 3736 | [Minimum Moves to Equal Array Elements III](problems/3736-Minimum-Moves-to-Equal-Array-Elements-III) | 🟩 Easy | `Java` | 2026-11-03 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 22 solved</summary>
+<summary><strong>🟩 Easy</strong> — 23 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -68,6 +68,7 @@
 | 1929 | [Concatenation of Array](problems/1929-Concatenation-of-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 | 2351 | [First Letter to Appear Twice](problems/2351-First-Letter-to-Appear-Twice) | 🟩 Easy | `Java` | 2026-10-24 |
 | 3090 | [Maximum Length Substring With Two Occurrences](problems/3090-Maximum-Length-Substring-With-Two-Occurrences) | 🟩 Easy | `Java` | 2026-10-11 |
+| 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Java` | 2026-11-12 |
 | 3736 | [Minimum Moves to Equal Array Elements III](problems/3736-Minimum-Moves-to-Equal-Array-Elements-III) | 🟩 Easy | `Java` | 2026-11-03 |
 
 </details>
