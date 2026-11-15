@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-59%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-24%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-31%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-60%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-24%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-32%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 | 3364 | [Minimum Positive Sum Subarray ](problems/3364-Minimum-Positive-Sum-Subarray) | 🟩 Easy | `Java` | 2026-11-14 |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](problems/3420-Count-Non-Decreasing-Subarrays-After-K-Operations) | 🟥 Hard | `Java` | 2026-11-13 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Java` | 2026-11-12 |
@@ -40,7 +41,6 @@
 | 1882 | [Process Tasks Using Servers](problems/1882-Process-Tasks-Using-Servers) | 🟧 Medium | `Java` | 2026-11-07 |
 | 2747 | [Count Zero Request Servers](problems/2747-Count-Zero-Request-Servers) | 🟧 Medium | `Java` | 2026-11-06 |
 | 1385 | [Find the Distance Value Between Two Arrays](problems/1385-Find-the-Distance-Value-Between-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-05 |
-| 414 | [Third Maximum Number](problems/0414-Third-Maximum-Number) | 🟩 Easy | `Java` | 2026-11-05 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 24 solved</summary>
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 31 solved</summary>
+<summary><strong>🟧 Medium</strong> — 32 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -102,6 +102,7 @@
 | 1011 | [Capacity To Ship Packages Within D Days](problems/1011-Capacity-To-Ship-Packages-Within-D-Days) | 🟧 Medium | `Java` | 2026-10-25 |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](problems/1343-Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold) | 🟧 Medium | `Java` | 2026-10-06 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](problems/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length) | 🟧 Medium | `Java` | 2026-10-07 |
+| 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `Java` | 2026-11-01 |
 | 1870 | [Minimum Speed to Arrive on Time](problems/1870-Minimum-Speed-to-Arrive-on-Time) | 🟧 Medium | `Java` | 2026-10-27 |
 | 1882 | [Process Tasks Using Servers](problems/1882-Process-Tasks-Using-Servers) | 🟧 Medium | `Java` | 2026-11-07 |
