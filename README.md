@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-62%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-25%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-33%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-63%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-26%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-33%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `Java` | 2026-11-16 |
 | 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 | 682 | [Baseball Game](problems/0682-Baseball-Game) | 🟩 Easy | `Java` | 2026-11-15 |
 | 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `Java` | 2026-11-15 |
@@ -40,10 +41,9 @@
 | 3789 | [Minimum Cost to Acquire Required Items](problems/3789-Minimum-Cost-to-Acquire-Required-Items) | 🟧 Medium | `Java` | 2026-11-11 |
 | 3693 | [Climbing Stairs II](problems/3693-Climbing-Stairs-II) | 🟧 Medium | `Java` | 2026-11-10 |
 | 1606 | [Find Servers That Handled Most Number of Requests](problems/1606-Find-Servers-That-Handled-Most-Number-of-Requests) | 🟥 Hard | `Java` | 2026-11-09 |
-| 1882 | [Process Tasks Using Servers](problems/1882-Process-Tasks-Using-Servers) | 🟧 Medium | `Java` | 2026-11-07 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 25 solved</summary>
+<summary><strong>🟩 Easy</strong> — 26 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -67,6 +67,7 @@
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1876 | [Substrings of Size Three with Distinct Characters](problems/1876-Substrings-of-Size-Three-with-Distinct-Characters) | 🟩 Easy | `Java` | 2026-10-07 |
 | 1929 | [Concatenation of Array](problems/1929-Concatenation-of-Array) | 🟩 Easy | `Java` | 2026-11-03 |
+| 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `Java` | 2026-11-16 |
 | 2351 | [First Letter to Appear Twice](problems/2351-First-Letter-to-Appear-Twice) | 🟩 Easy | `Java` | 2026-10-24 |
 | 3090 | [Maximum Length Substring With Two Occurrences](problems/3090-Maximum-Length-Substring-With-Two-Occurrences) | 🟩 Easy | `Java` | 2026-10-11 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Java` | 2026-11-12 |
