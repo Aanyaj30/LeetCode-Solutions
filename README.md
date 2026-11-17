@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-69%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-28%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-36%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-70%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-36%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 2911 | [Minimum Changes to Make K Semi-palindromes](problems/2911-Minimum-Changes-to-Make-K-Semi-palindromes) | 🟥 Hard | `Java` | 2026-11-17 |
+| 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `Java` | 2026-11-17 |
 | 442 | [Find All Duplicates in an Array](problems/0442-Find-All-Duplicates-in-an-Array) | 🟧 Medium | `Java` | 2026-11-17 |
@@ -40,10 +41,9 @@
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
 | 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 | 682 | [Baseball Game](problems/0682-Baseball-Game) | 🟩 Easy | `Java` | 2026-11-15 |
-| 53 | [Maximum Subarray](problems/0053-Maximum-Subarray) | 🟧 Medium | `Java` | 2026-11-15 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 28 solved</summary>
+<summary><strong>🟩 Easy</strong> — 29 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -61,6 +61,7 @@
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `Java` | 2026-11-17 |
 | 682 | [Baseball Game](problems/0682-Baseball-Game) | 🟩 Easy | `Java` | 2026-11-15 |
 | 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `Java` | 2026-10-31 |
+| 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
 | 1385 | [Find the Distance Value Between Two Arrays](problems/1385-Find-the-Distance-Value-Between-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-05 |
 | 1431 | [Kids With the Greatest Number of Candies](problems/1431-Kids-With-the-Greatest-Number-of-Candies) | 🟩 Easy | `Java` | 2026-10-24 |
 | 1464 | [Maximum Product of Two Elements in an Array](problems/1464-Maximum-Product-of-Two-Elements-in-an-Array) | 🟩 Easy | `Java` | 2026-11-03 |
