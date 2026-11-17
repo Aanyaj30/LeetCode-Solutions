@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-65%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-27%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-34%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-66%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-27%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-35%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-4%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
 | 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `Java` | 2026-11-16 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `Java` | 2026-11-16 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
@@ -40,7 +41,6 @@
 | 3364 | [Minimum Positive Sum Subarray ](problems/3364-Minimum-Positive-Sum-Subarray) | 🟩 Easy | `Java` | 2026-11-14 |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](problems/3420-Count-Non-Decreasing-Subarrays-After-K-Operations) | 🟥 Hard | `Java` | 2026-11-13 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Java` | 2026-11-12 |
-| 3789 | [Minimum Cost to Acquire Required Items](problems/3789-Minimum-Cost-to-Acquire-Required-Items) | 🟧 Medium | `Java` | 2026-11-11 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 27 solved</summary>
@@ -78,7 +78,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 34 solved</summary>
+<summary><strong>🟧 Medium</strong> — 35 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -102,6 +102,7 @@
 | 445 | [Add Two Numbers II](problems/0445-Add-Two-Numbers-II) | 🟧 Medium | `Java` | 2026-10-31 |
 | 453 | [Minimum Moves to Equal Array Elements](problems/0453-Minimum-Moves-to-Equal-Array-Elements) | 🟧 Medium | `Java` | 2026-11-01 |
 | 462 | [Minimum Moves to Equal Array Elements II](problems/0462-Minimum-Moves-to-Equal-Array-Elements-II) | 🟧 Medium | `Java` | 2026-11-02 |
+| 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
 | 875 | [Koko Eating Bananas](problems/0875-Koko-Eating-Bananas) | 🟧 Medium | `Java` | 2026-10-27 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `Java` | 2026-11-16 |
 | 1011 | [Capacity To Ship Packages Within D Days](problems/1011-Capacity-To-Ship-Packages-Within-D-Days) | 🟧 Medium | `Java` | 2026-10-25 |
