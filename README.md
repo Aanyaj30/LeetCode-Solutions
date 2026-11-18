@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-72%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-38%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-73%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-39%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Java` | 2026-11-18 |
+| 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `Java` | 2026-11-18 |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](problems/2911-Minimum-Changes-to-Make-K-Semi-palindromes) | 🟥 Hard | `Java` | 2026-11-17 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
@@ -40,7 +41,6 @@
 | 155 | [Min Stack](problems/0155-Min-Stack) | 🟧 Medium | `Java` | 2026-11-17 |
 | 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `Java` | 2026-11-16 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `Java` | 2026-11-16 |
-| 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 29 solved</summary>
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 38 solved</summary>
+<summary><strong>🟧 Medium</strong> — 39 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -107,6 +107,7 @@
 | 453 | [Minimum Moves to Equal Array Elements](problems/0453-Minimum-Moves-to-Equal-Array-Elements) | 🟧 Medium | `Java` | 2026-11-01 |
 | 462 | [Minimum Moves to Equal Array Elements II](problems/0462-Minimum-Moves-to-Equal-Array-Elements-II) | 🟧 Medium | `Java` | 2026-11-02 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
+| 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `Java` | 2026-11-18 |
 | 875 | [Koko Eating Bananas](problems/0875-Koko-Eating-Bananas) | 🟧 Medium | `Java` | 2026-10-27 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `Java` | 2026-11-16 |
 | 1011 | [Capacity To Ship Packages Within D Days](problems/1011-Capacity-To-Ship-Packages-Within-D-Days) | 🟧 Medium | `Java` | 2026-10-25 |
