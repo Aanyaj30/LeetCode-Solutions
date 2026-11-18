@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-71%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-37%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-72%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-38%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Java` | 2026-11-18 |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](problems/2911-Minimum-Changes-to-Make-K-Semi-palindromes) | 🟥 Hard | `Java` | 2026-11-17 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
@@ -40,7 +41,6 @@
 | 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `Java` | 2026-11-16 |
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `Java` | 2026-11-16 |
 | 20 | [Valid Parentheses](problems/0020-Valid-Parentheses) | 🟩 Easy | `Java` | 2026-11-16 |
-| 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 29 solved</summary>
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 37 solved</summary>
+<summary><strong>🟧 Medium</strong> — 38 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -118,6 +118,7 @@
 | 1882 | [Process Tasks Using Servers](problems/1882-Process-Tasks-Using-Servers) | 🟧 Medium | `Java` | 2026-11-07 |
 | 2095 | [Delete the Middle Node of a Linked List](problems/2095-Delete-the-Middle-Node-of-a-Linked-List) | 🟧 Medium | `Java` | 2026-11-01 |
 | 2747 | [Count Zero Request Servers](problems/2747-Count-Zero-Request-Servers) | 🟧 Medium | `Java` | 2026-11-06 |
+| 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Java` | 2026-11-18 |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](problems/2958-Length-of-Longest-Subarray-With-at-Most-K-Frequency) | 🟧 Medium | `Java` | 2026-10-11 |
 | 3693 | [Climbing Stairs II](problems/3693-Climbing-Stairs-II) | 🟧 Medium | `Java` | 2026-11-10 |
 | 3789 | [Minimum Cost to Acquire Required Items](problems/3789-Minimum-Cost-to-Acquire-Required-Items) | 🟧 Medium | `Java` | 2026-11-11 |
