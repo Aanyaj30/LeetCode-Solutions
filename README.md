@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-74%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-40%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-5%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-75%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-40%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](problems/3041-Maximize-Consecutive-Elements-in-an-Array-After-Modification) | 🟥 Hard | `Java` | 2026-11-20 |
 | 2567 | [Minimum Score by Changing Two Elements](problems/2567-Minimum-Score-by-Changing-Two-Elements) | 🟧 Medium | `Java` | 2026-11-19 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](problems/2914-Minimum-Number-of-Changes-to-Make-Binary-String-Beautiful) | 🟧 Medium | `Java` | 2026-11-18 |
 | 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `Java` | 2026-11-18 |
@@ -40,7 +41,6 @@
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `Java` | 2026-11-17 |
 | 442 | [Find All Duplicates in an Array](problems/0442-Find-All-Duplicates-in-an-Array) | 🟧 Medium | `Java` | 2026-11-17 |
 | 155 | [Min Stack](problems/0155-Min-Stack) | 🟧 Medium | `Java` | 2026-11-17 |
-| 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `Java` | 2026-11-16 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 29 solved</summary>
@@ -128,13 +128,14 @@
 </details>
 
 <details>
-<summary><strong>🟥 Hard</strong> — 5 solved</summary>
+<summary><strong>🟥 Hard</strong> — 6 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 1095 | [Find in Mountain Array](problems/1095-Find-in-Mountain-Array) | 🟥 Hard | `Java` | 2026-10-24 |
 | 1606 | [Find Servers That Handled Most Number of Requests](problems/1606-Find-Servers-That-Handled-Most-Number-of-Requests) | 🟥 Hard | `Java` | 2026-11-09 |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](problems/2911-Minimum-Changes-to-Make-K-Semi-palindromes) | 🟥 Hard | `Java` | 2026-11-17 |
+| 3041 | [Maximize Consecutive Elements in an Array After Modification](problems/3041-Maximize-Consecutive-Elements-in-an-Array-After-Modification) | 🟥 Hard | `Java` | 2026-11-20 |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](problems/3420-Count-Non-Decreasing-Subarrays-After-K-Operations) | 🟥 Hard | `Java` | 2026-11-13 |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](problems/3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal) | 🟥 Hard | `Java` | 2026-11-04 |
 
