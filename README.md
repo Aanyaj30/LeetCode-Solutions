@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-78%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-31%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-79%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-32%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -33,6 +33,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 2124 | [Check if All A's Appears Before All B's](problems/2124-Check-if-All-As-Appears-Before-All-Bs) | 🟩 Easy | `Java` | 2026-11-22 |
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-11-22 |
+| 463 | [Island Perimeter](problems/0463-Island-Perimeter) | 🟩 Easy | `Java` | 2026-11-22 |
 | 3331 | [Find Subtree Sizes After Changes](problems/3331-Find-Subtree-Sizes-After-Changes) | 🟧 Medium | `Java` | 2026-11-21 |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](problems/3041-Maximize-Consecutive-Elements-in-an-Array-After-Modification) | 🟥 Hard | `Java` | 2026-11-20 |
 | 2567 | [Minimum Score by Changing Two Elements](problems/2567-Minimum-Score-by-Changing-Two-Elements) | 🟧 Medium | `Java` | 2026-11-19 |
@@ -40,10 +41,9 @@
 | 739 | [Daily Temperatures](problems/0739-Daily-Temperatures) | 🟧 Medium | `Java` | 2026-11-18 |
 | 2911 | [Minimum Changes to Make K Semi-palindromes](problems/2911-Minimum-Changes-to-Make-K-Semi-palindromes) | 🟥 Hard | `Java` | 2026-11-17 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
-| 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 31 solved</summary>
+<summary><strong>🟩 Easy</strong> — 32 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -58,6 +58,7 @@
 | 234 | [Palindrome Linked List](problems/0234-Palindrome-Linked-List) | 🟩 Easy | `Java` | 2026-10-30 |
 | 387 | [First Unique Character in a String](problems/0387-First-Unique-Character-in-a-String) | 🟩 Easy | `Java` | 2026-10-24 |
 | 414 | [Third Maximum Number](problems/0414-Third-Maximum-Number) | 🟩 Easy | `Java` | 2026-11-05 |
+| 463 | [Island Perimeter](problems/0463-Island-Perimeter) | 🟩 Easy | `Java` | 2026-11-22 |
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `Java` | 2026-11-17 |
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-11-22 |
 | 682 | [Baseball Game](problems/0682-Baseball-Game) | 🟩 Easy | `Java` | 2026-11-15 |
