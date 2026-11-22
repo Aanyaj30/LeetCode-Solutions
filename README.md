@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-76%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-29%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-77%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-30%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2124 | [Check if All A's Appears Before All B's](problems/2124-Check-if-All-As-Appears-Before-All-Bs) | 🟩 Easy | `Java` | 2026-11-22 |
 | 3331 | [Find Subtree Sizes After Changes](problems/3331-Find-Subtree-Sizes-After-Changes) | 🟧 Medium | `Java` | 2026-11-21 |
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](problems/3041-Maximize-Consecutive-Elements-in-an-Array-After-Modification) | 🟥 Hard | `Java` | 2026-11-20 |
 | 2567 | [Minimum Score by Changing Two Elements](problems/2567-Minimum-Score-by-Changing-Two-Elements) | 🟧 Medium | `Java` | 2026-11-19 |
@@ -40,10 +41,9 @@
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
 | 503 | [Next Greater Element II](problems/0503-Next-Greater-Element-II) | 🟧 Medium | `Java` | 2026-11-17 |
 | 496 | [Next Greater Element I](problems/0496-Next-Greater-Element-I) | 🟩 Easy | `Java` | 2026-11-17 |
-| 442 | [Find All Duplicates in an Array](problems/0442-Find-All-Duplicates-in-an-Array) | 🟧 Medium | `Java` | 2026-11-17 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 29 solved</summary>
+<summary><strong>🟩 Easy</strong> — 30 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -70,6 +70,7 @@
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1876 | [Substrings of Size Three with Distinct Characters](problems/1876-Substrings-of-Size-Three-with-Distinct-Characters) | 🟩 Easy | `Java` | 2026-10-07 |
 | 1929 | [Concatenation of Array](problems/1929-Concatenation-of-Array) | 🟩 Easy | `Java` | 2026-11-03 |
+| 2124 | [Check if All A's Appears Before All B's](problems/2124-Check-if-All-As-Appears-Before-All-Bs) | 🟩 Easy | `Java` | 2026-11-22 |
 | 2243 | [Calculate Digit Sum of a String](problems/2243-Calculate-Digit-Sum-of-a-String) | 🟩 Easy | `Java` | 2026-11-16 |
 | 2351 | [First Letter to Appear Twice](problems/2351-First-Letter-to-Appear-Twice) | 🟩 Easy | `Java` | 2026-10-24 |
 | 3090 | [Maximum Length Substring With Two Occurrences](problems/3090-Maximum-Length-Substring-With-Two-Occurrences) | 🟩 Easy | `Java` | 2026-10-11 |
