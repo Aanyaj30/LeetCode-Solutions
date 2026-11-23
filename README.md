@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-91%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-44%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-92%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-44%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -40,7 +40,7 @@
 | 2027 | [Minimum Moves to Convert String](problems/2027-Minimum-Moves-to-Convert-String) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2011 | [Final Value of Variable After Performing Operations](problems/2011-Final-Value-of-Variable-After-Performing-Operations) | 🟩 Easy | `Java` | 2026-11-23 |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-Check-if-the-Sentence-Is-Pangram) | 🟩 Easy | `Java` | 2026-11-23 |
-| 2124 | [Check if All A's Appears Before All B's](problems/2124-Check-if-All-As-Appears-Before-All-Bs) | 🟩 Easy | `Java` | 2026-11-22 |
+| 1352 | [Product of the Last K Numbers](problems/1352-Product-of-the-Last-K-Numbers) | 🟧 Medium | `Java` | 2026-11-23 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 44 solved</summary>
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 41 solved</summary>
+<summary><strong>🟧 Medium</strong> — 42 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -127,6 +127,7 @@
 | 921 | [Minimum Add to Make Parentheses Valid](problems/0921-Minimum-Add-to-Make-Parentheses-Valid) | 🟧 Medium | `Java` | 2026-11-16 |
 | 1011 | [Capacity To Ship Packages Within D Days](problems/1011-Capacity-To-Ship-Packages-Within-D-Days) | 🟧 Medium | `Java` | 2026-10-25 |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](problems/1343-Number-of-Sub-arrays-of-Size-K-and-Average-Greater-than-or-Equal-to-Threshold) | 🟧 Medium | `Java` | 2026-10-06 |
+| 1352 | [Product of the Last K Numbers](problems/1352-Product-of-the-Last-K-Numbers) | 🟧 Medium | `Java` | 2026-11-23 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](problems/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length) | 🟧 Medium | `Java` | 2026-10-07 |
 | 1524 | [Number of Sub-arrays With Odd Sum](problems/1524-Number-of-Sub-arrays-With-Odd-Sum) | 🟧 Medium | `Java` | 2026-11-15 |
 | 1669 | [Merge In Between Linked Lists](problems/1669-Merge-In-Between-Linked-Lists) | 🟧 Medium | `Java` | 2026-11-01 |
