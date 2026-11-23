@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-90%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-43%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-91%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-44%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-41%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2469 | [Convert the Temperature](problems/2469-Convert-the-Temperature) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2413 | [Smallest Even Multiple](problems/2413-Smallest-Even-Multiple) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `Java` | 2026-11-23 |
@@ -40,10 +41,9 @@
 | 2011 | [Final Value of Variable After Performing Operations](problems/2011-Final-Value-of-Variable-After-Performing-Operations) | 🟩 Easy | `Java` | 2026-11-23 |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-Check-if-the-Sentence-Is-Pangram) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2124 | [Check if All A's Appears Before All B's](problems/2124-Check-if-All-As-Appears-Before-All-Bs) | 🟩 Easy | `Java` | 2026-11-22 |
-| 771 | [Jewels and Stones](problems/0771-Jewels-and-Stones) | 🟩 Easy | `Java` | 2026-11-22 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 43 solved</summary>
+<summary><strong>🟩 Easy</strong> — 44 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -86,6 +86,7 @@
 | 2351 | [First Letter to Appear Twice](problems/2351-First-Letter-to-Appear-Twice) | 🟩 Easy | `Java` | 2026-10-24 |
 | 2413 | [Smallest Even Multiple](problems/2413-Smallest-Even-Multiple) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2469 | [Convert the Temperature](problems/2469-Convert-the-Temperature) | 🟩 Easy | `Java` | 2026-11-23 |
+| 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `Java` | 2026-11-23 |
 | 3090 | [Maximum Length Substring With Two Occurrences](problems/3090-Maximum-Length-Substring-With-Two-Occurrences) | 🟩 Easy | `Java` | 2026-10-11 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Java` | 2026-11-12 |
 | 3364 | [Minimum Positive Sum Subarray ](problems/3364-Minimum-Positive-Sum-Subarray) | 🟩 Easy | `Java` | 2026-11-14 |
