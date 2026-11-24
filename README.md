@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-99%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-51%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-100%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-52%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Java` | 2026-11-24 |
+| 3411 | [Maximum Subarray With Equal Products](problems/3411-Maximum-Subarray-With-Equal-Products) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3330 | [Find the Original Typed String I](problems/3330-Find-the-Original-Typed-String-I) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3099 | [Harshad Number](problems/3099-Harshad-Number) | 🟩 Easy | `Java` | 2026-11-24 |
 | 2942 | [Find Words Containing Character](problems/2942-Find-Words-Containing-Character) | 🟩 Easy | `Java` | 2026-11-24 |
@@ -40,10 +41,9 @@
 | 2798 | [Number of Employees Who Met the Target](problems/2798-Number-of-Employees-Who-Met-the-Target) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2469 | [Convert the Temperature](problems/2469-Convert-the-Temperature) | 🟩 Easy | `Java` | 2026-11-23 |
-| 2413 | [Smallest Even Multiple](problems/2413-Smallest-Even-Multiple) | 🟩 Easy | `Java` | 2026-11-23 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 51 solved</summary>
+<summary><strong>🟩 Easy</strong> — 52 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -96,6 +96,7 @@
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](problems/3105-Longest-Strictly-Increasing-or-Strictly-Decreasing-Subarray) | 🟩 Easy | `Java` | 2026-11-12 |
 | 3330 | [Find the Original Typed String I](problems/3330-Find-the-Original-Typed-String-I) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3364 | [Minimum Positive Sum Subarray ](problems/3364-Minimum-Positive-Sum-Subarray) | 🟩 Easy | `Java` | 2026-11-14 |
+| 3411 | [Maximum Subarray With Equal Products](problems/3411-Maximum-Subarray-With-Equal-Products) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3736 | [Minimum Moves to Equal Array Elements III](problems/3736-Minimum-Moves-to-Equal-Array-Elements-III) | 🟩 Easy | `Java` | 2026-11-03 |
 
