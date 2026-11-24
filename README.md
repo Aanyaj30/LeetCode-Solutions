@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-98%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-50%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-99%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-51%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -35,15 +35,15 @@
 | 3330 | [Find the Original Typed String I](problems/3330-Find-the-Original-Typed-String-I) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3099 | [Harshad Number](problems/3099-Harshad-Number) | 🟩 Easy | `Java` | 2026-11-24 |
 | 2942 | [Find Words Containing Character](problems/2942-Find-Words-Containing-Character) | 🟩 Easy | `Java` | 2026-11-24 |
+| 905 | [Sort Array By Parity](problems/0905-Sort-Array-By-Parity) | 🟩 Easy | `Java` | 2026-11-24 |
 | 2894 | [Divisible and Non-divisible Sums Difference](problems/2894-Divisible-and-Non-divisible-Sums-Difference) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2798 | [Number of Employees Who Met the Target](problems/2798-Number-of-Employees-Who-Met-the-Target) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2469 | [Convert the Temperature](problems/2469-Convert-the-Temperature) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2413 | [Smallest Even Multiple](problems/2413-Smallest-Even-Multiple) | 🟩 Easy | `Java` | 2026-11-23 |
-| 2235 | [Add Two Integers](problems/2235-Add-Two-Integers) | 🟩 Easy | `Java` | 2026-11-23 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 50 solved</summary>
+<summary><strong>🟩 Easy</strong> — 51 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -66,6 +66,7 @@
 | 728 | [Self Dividing Numbers](problems/0728-Self-Dividing-Numbers) | 🟩 Easy | `Java` | 2026-11-22 |
 | 771 | [Jewels and Stones](problems/0771-Jewels-and-Stones) | 🟩 Easy | `Java` | 2026-11-22 |
 | 876 | [Middle of the Linked List](problems/0876-Middle-of-the-Linked-List) | 🟩 Easy | `Java` | 2026-10-31 |
+| 905 | [Sort Array By Parity](problems/0905-Sort-Array-By-Parity) | 🟩 Easy | `Java` | 2026-11-24 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
 | 1385 | [Find the Distance Value Between Two Arrays](problems/1385-Find-the-Distance-Value-Between-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-05 |
 | 1431 | [Kids With the Greatest Number of Candies](problems/1431-Kids-With-the-Greatest-Number-of-Candies) | 🟩 Easy | `Java` | 2026-10-24 |
