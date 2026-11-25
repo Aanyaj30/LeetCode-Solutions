@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-101%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-53%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-6%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-102%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-53%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-42%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 3934 | [Smallest Unique Subarray](problems/3934-Smallest-Unique-Subarray) | 🟥 Hard | `Java` | 2026-11-25 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3411 | [Maximum Subarray With Equal Products](problems/3411-Maximum-Subarray-With-Equal-Products) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3330 | [Find the Original Typed String I](problems/3330-Find-the-Original-Typed-String-I) | 🟩 Easy | `Java` | 2026-11-24 |
@@ -40,7 +41,6 @@
 | 832 | [Flipping an Image](problems/0832-Flipping-an-Image) | 🟩 Easy | `Java` | 2026-11-24 |
 | 2894 | [Divisible and Non-divisible Sums Difference](problems/2894-Divisible-and-Non-divisible-Sums-Difference) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2798 | [Number of Employees Who Met the Target](problems/2798-Number-of-Employees-Who-Met-the-Target) | 🟩 Easy | `Java` | 2026-11-23 |
-| 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `Java` | 2026-11-23 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 53 solved</summary>
@@ -154,7 +154,7 @@
 </details>
 
 <details>
-<summary><strong>🟥 Hard</strong> — 6 solved</summary>
+<summary><strong>🟥 Hard</strong> — 7 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -164,6 +164,7 @@
 | 3041 | [Maximize Consecutive Elements in an Array After Modification](problems/3041-Maximize-Consecutive-Elements-in-an-Array-After-Modification) | 🟥 Hard | `Java` | 2026-11-20 |
 | 3420 | [Count Non-Decreasing Subarrays After K Operations](problems/3420-Count-Non-Decreasing-Subarrays-After-K-Operations) | 🟥 Hard | `Java` | 2026-11-13 |
 | 3505 | [Minimum Operations to Make Elements Within K Subarrays Equal](problems/3505-Minimum-Operations-to-Make-Elements-Within-K-Subarrays-Equal) | 🟥 Hard | `Java` | 2026-11-04 |
+| 3934 | [Smallest Unique Subarray](problems/3934-Smallest-Unique-Subarray) | 🟥 Hard | `Java` | 2026-11-25 |
 
 </details>
 
