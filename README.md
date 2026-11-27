@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-108%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-58%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-109%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-59%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 3946 | [Maximum Number of Items From Sale I](problems/3946-Maximum-Number-of-Items-From-Sale-I) | 🟧 Medium | `Java` | 2026-11-27 |
+| 1704 | [Determine if String Halves Are Alike](problems/1704-Determine-if-String-Halves-Are-Alike) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1304 | [Find N Unique Integers Sum up to Zero](problems/1304-Find-N-Unique-Integers-Sum-up-to-Zero) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1295 | [Find Numbers with Even Number of Digits](problems/1295-Find-Numbers-with-Even-Number-of-Digits) | 🟩 Easy | `Java` | 2026-11-27 |
@@ -40,10 +41,9 @@
 | 3934 | [Smallest Unique Subarray](problems/3934-Smallest-Unique-Subarray) | 🟥 Hard | `Java` | 2026-11-25 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3411 | [Maximum Subarray With Equal Products](problems/3411-Maximum-Subarray-With-Equal-Products) | 🟩 Easy | `Java` | 2026-11-24 |
-| 3330 | [Find the Original Typed String I](problems/3330-Find-the-Original-Typed-String-I) | 🟩 Easy | `Java` | 2026-11-24 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 58 solved</summary>
+<summary><strong>🟩 Easy</strong> — 59 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -79,6 +79,7 @@
 | 1480 | [Running Sum of 1d Array](problems/1480-Running-Sum-of-1d-Array) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1512 | [Number of Good Pairs](problems/1512-Number-of-Good-Pairs) | 🟩 Easy | `Java` | 2026-11-03 |
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Java` | 2026-11-27 |
+| 1704 | [Determine if String Halves Are Alike](problems/1704-Determine-if-String-Halves-Are-Alike) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1832 | [Check if the Sentence Is Pangram](problems/1832-Check-if-the-Sentence-Is-Pangram) | 🟩 Easy | `Java` | 2026-11-23 |
 | 1876 | [Substrings of Size Three with Distinct Characters](problems/1876-Substrings-of-Size-Three-with-Distinct-Characters) | 🟩 Easy | `Java` | 2026-10-07 |
 | 1929 | [Concatenation of Array](problems/1929-Concatenation-of-Array) | 🟩 Easy | `Java` | 2026-11-03 |
