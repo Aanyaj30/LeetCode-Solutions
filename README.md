@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-106%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-56%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-107%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-57%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -33,6 +33,7 @@
 |:---:|:--------|:----------:|:--------:|:----:|
 | 3946 | [Maximum Number of Items From Sale I](problems/3946-Maximum-Number-of-Items-From-Sale-I) | 🟧 Medium | `Java` | 2026-11-27 |
 | 1304 | [Find N Unique Integers Sum up to Zero](problems/1304-Find-N-Unique-Integers-Sum-up-to-Zero) | 🟩 Easy | `Java` | 2026-11-27 |
+| 1295 | [Find Numbers with Even Number of Digits](problems/1295-Find-Numbers-with-Even-Number-of-Digits) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](problems/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 🟩 Easy | `Java` | 2026-11-27 |
 | 3360 | [Stone Removal Game](problems/3360-Stone-Removal-Game) | 🟩 Easy | `Java` | 2026-11-26 |
 | 3934 | [Smallest Unique Subarray](problems/3934-Smallest-Unique-Subarray) | 🟥 Hard | `Java` | 2026-11-25 |
@@ -40,10 +41,9 @@
 | 3411 | [Maximum Subarray With Equal Products](problems/3411-Maximum-Subarray-With-Equal-Products) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3330 | [Find the Original Typed String I](problems/3330-Find-the-Original-Typed-String-I) | 🟩 Easy | `Java` | 2026-11-24 |
 | 3099 | [Harshad Number](problems/3099-Harshad-Number) | 🟩 Easy | `Java` | 2026-11-24 |
-| 2942 | [Find Words Containing Character](problems/2942-Find-Words-Containing-Character) | 🟩 Easy | `Java` | 2026-11-24 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 56 solved</summary>
+<summary><strong>🟩 Easy</strong> — 57 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -70,6 +70,7 @@
 | 905 | [Sort Array By Parity](problems/0905-Sort-Array-By-Parity) | 🟩 Easy | `Java` | 2026-11-24 |
 | 1047 | [Remove All Adjacent Duplicates In String](problems/1047-Remove-All-Adjacent-Duplicates-In-String) | 🟩 Easy | `Java` | 2026-11-17 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](problems/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 🟩 Easy | `Java` | 2026-11-27 |
+| 1295 | [Find Numbers with Even Number of Digits](problems/1295-Find-Numbers-with-Even-Number-of-Digits) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1304 | [Find N Unique Integers Sum up to Zero](problems/1304-Find-N-Unique-Integers-Sum-up-to-Zero) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1385 | [Find the Distance Value Between Two Arrays](problems/1385-Find-the-Distance-Value-Between-Two-Arrays) | 🟩 Easy | `Java` | 2026-11-05 |
 | 1431 | [Kids With the Greatest Number of Candies](problems/1431-Kids-With-the-Greatest-Number-of-Candies) | 🟩 Easy | `Java` | 2026-10-24 |
