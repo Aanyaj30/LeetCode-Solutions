@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-109%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-59%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-43%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-110%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-59%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-44%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 287 | [Find the Duplicate Number](problems/0287-Find-the-Duplicate-Number) | 🟧 Medium | `Java` | 2026-11-28 |
 | 3946 | [Maximum Number of Items From Sale I](problems/3946-Maximum-Number-of-Items-From-Sale-I) | 🟧 Medium | `Java` | 2026-11-27 |
 | 1704 | [Determine if String Halves Are Alike](problems/1704-Determine-if-String-Halves-Are-Alike) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Java` | 2026-11-27 |
@@ -40,7 +41,6 @@
 | 3360 | [Stone Removal Game](problems/3360-Stone-Removal-Game) | 🟩 Easy | `Java` | 2026-11-26 |
 | 3934 | [Smallest Unique Subarray](problems/3934-Smallest-Unique-Subarray) | 🟥 Hard | `Java` | 2026-11-25 |
 | 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Java` | 2026-11-24 |
-| 3411 | [Maximum Subarray With Equal Products](problems/3411-Maximum-Subarray-With-Equal-Products) | 🟩 Easy | `Java` | 2026-11-24 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 59 solved</summary>
@@ -110,7 +110,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 43 solved</summary>
+<summary><strong>🟧 Medium</strong> — 44 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -132,6 +132,7 @@
 | 162 | [Find Peak Element](problems/0162-Find-Peak-Element) | 🟧 Medium | `Java` | 2026-10-24 |
 | 209 | [Minimum Size Subarray Sum](problems/0209-Minimum-Size-Subarray-Sum) | 🟧 Medium | `Java` | 2026-10-11 |
 | 237 | [Delete Node in a Linked List](problems/0237-Delete-Node-in-a-Linked-List) | 🟧 Medium | `Java` | 2026-10-31 |
+| 287 | [Find the Duplicate Number](problems/0287-Find-the-Duplicate-Number) | 🟧 Medium | `Java` | 2026-11-28 |
 | 442 | [Find All Duplicates in an Array](problems/0442-Find-All-Duplicates-in-an-Array) | 🟧 Medium | `Java` | 2026-11-17 |
 | 445 | [Add Two Numbers II](problems/0445-Add-Two-Numbers-II) | 🟧 Medium | `Java` | 2026-10-31 |
 | 453 | [Minimum Moves to Equal Array Elements](problems/0453-Minimum-Moves-to-Equal-Array-Elements) | 🟧 Medium | `Java` | 2026-11-01 |
