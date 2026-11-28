@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-113%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-62%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-44%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-114%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-62%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-45%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 3947 | [Maximum Number of Items From Sale II](problems/3947-Maximum-Number-of-Items-From-Sale-II) | 🟧 Medium | `Java` | 2026-11-28 |
 | 2540 | [Minimum Common Value](problems/2540-Minimum-Common-Value) | 🟩 Easy | `Java` | 2026-11-28 |
 | 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-28 |
 | 541 | [Reverse String II](problems/0541-Reverse-String-II) | 🟩 Easy | `Java` | 2026-11-28 |
@@ -40,7 +41,6 @@
 | 1572 | [Matrix Diagonal Sum](problems/1572-Matrix-Diagonal-Sum) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1304 | [Find N Unique Integers Sum up to Zero](problems/1304-Find-N-Unique-Integers-Sum-up-to-Zero) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1295 | [Find Numbers with Even Number of Digits](problems/1295-Find-Numbers-with-Even-Number-of-Digits) | 🟩 Easy | `Java` | 2026-11-27 |
-| 1281 | [Subtract the Product and Sum of Digits of an Integer](problems/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 🟩 Easy | `Java` | 2026-11-27 |
 
 <details>
 <summary><strong>🟩 Easy</strong> — 62 solved</summary>
@@ -113,7 +113,7 @@
 </details>
 
 <details>
-<summary><strong>🟧 Medium</strong> — 44 solved</summary>
+<summary><strong>🟧 Medium</strong> — 45 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -161,6 +161,7 @@
 | 3693 | [Climbing Stairs II](problems/3693-Climbing-Stairs-II) | 🟧 Medium | `Java` | 2026-11-10 |
 | 3789 | [Minimum Cost to Acquire Required Items](problems/3789-Minimum-Cost-to-Acquire-Required-Items) | 🟧 Medium | `Java` | 2026-11-11 |
 | 3946 | [Maximum Number of Items From Sale I](problems/3946-Maximum-Number-of-Items-From-Sale-I) | 🟧 Medium | `Java` | 2026-11-27 |
+| 3947 | [Maximum Number of Items From Sale II](problems/3947-Maximum-Number-of-Items-From-Sale-II) | 🟧 Medium | `Java` | 2026-11-28 |
 
 </details>
 
