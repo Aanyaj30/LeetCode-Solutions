@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-110%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-59%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-44%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-111%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-60%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-44%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -31,6 +31,7 @@
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
+| 2540 | [Minimum Common Value](problems/2540-Minimum-Common-Value) | 🟩 Easy | `Java` | 2026-11-28 |
 | 287 | [Find the Duplicate Number](problems/0287-Find-the-Duplicate-Number) | 🟧 Medium | `Java` | 2026-11-28 |
 | 3946 | [Maximum Number of Items From Sale I](problems/3946-Maximum-Number-of-Items-From-Sale-I) | 🟧 Medium | `Java` | 2026-11-27 |
 | 1704 | [Determine if String Halves Are Alike](problems/1704-Determine-if-String-Halves-Are-Alike) | 🟩 Easy | `Java` | 2026-11-27 |
@@ -40,10 +41,9 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](problems/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 🟩 Easy | `Java` | 2026-11-27 |
 | 3360 | [Stone Removal Game](problems/3360-Stone-Removal-Game) | 🟩 Easy | `Java` | 2026-11-26 |
 | 3934 | [Smallest Unique Subarray](problems/3934-Smallest-Unique-Subarray) | 🟥 Hard | `Java` | 2026-11-25 |
-| 3498 | [Reverse Degree of a String](problems/3498-Reverse-Degree-of-a-String) | 🟩 Easy | `Java` | 2026-11-24 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 59 solved</summary>
+<summary><strong>🟩 Easy</strong> — 60 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -93,6 +93,7 @@
 | 2351 | [First Letter to Appear Twice](problems/2351-First-Letter-to-Appear-Twice) | 🟩 Easy | `Java` | 2026-10-24 |
 | 2413 | [Smallest Even Multiple](problems/2413-Smallest-Even-Multiple) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2469 | [Convert the Temperature](problems/2469-Convert-the-Temperature) | 🟩 Easy | `Java` | 2026-11-23 |
+| 2540 | [Minimum Common Value](problems/2540-Minimum-Common-Value) | 🟩 Easy | `Java` | 2026-11-28 |
 | 2652 | [Sum Multiples](problems/2652-Sum-Multiples) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2798 | [Number of Employees Who Met the Target](problems/2798-Number-of-Employees-Who-Met-the-Target) | 🟩 Easy | `Java` | 2026-11-23 |
 | 2894 | [Divisible and Non-divisible Sums Difference](problems/2894-Divisible-and-Non-divisible-Sums-Difference) | 🟩 Easy | `Java` | 2026-11-23 |
