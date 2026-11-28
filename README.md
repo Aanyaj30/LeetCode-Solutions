@@ -3,7 +3,7 @@
 <h1>LeetCode Solutions</h1>
 <p><em>Automatically synced with every accepted submission</em></p>
 
-![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-112%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-61%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-44%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
+![Total Solved](https://img.shields.io/badge/TOTAL%20SOLVED-113%2F3616-6c5ce7?style=for-the-badge&labelColor=1a1a2e) ![Easy](https://img.shields.io/badge/EASY-62%2F895-00b8a3?style=for-the-badge&labelColor=1a1a2e) ![Medium](https://img.shields.io/badge/MEDIUM-44%2F1878-ffa116?style=for-the-badge&labelColor=1a1a2e) ![Hard](https://img.shields.io/badge/HARD-7%2F843-ef4743?style=for-the-badge&labelColor=1a1a2e)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset=".leetsync/stats-dark.svg">
@@ -32,6 +32,7 @@
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
 | 2540 | [Minimum Common Value](problems/2540-Minimum-Common-Value) | 🟩 Easy | `Java` | 2026-11-28 |
+| 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-28 |
 | 541 | [Reverse String II](problems/0541-Reverse-String-II) | 🟩 Easy | `Java` | 2026-11-28 |
 | 287 | [Find the Duplicate Number](problems/0287-Find-the-Duplicate-Number) | 🟧 Medium | `Java` | 2026-11-28 |
 | 3946 | [Maximum Number of Items From Sale I](problems/3946-Maximum-Number-of-Items-From-Sale-I) | 🟧 Medium | `Java` | 2026-11-27 |
@@ -40,10 +41,9 @@
 | 1304 | [Find N Unique Integers Sum up to Zero](problems/1304-Find-N-Unique-Integers-Sum-up-to-Zero) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1295 | [Find Numbers with Even Number of Digits](problems/1295-Find-Numbers-with-Even-Number-of-Digits) | 🟩 Easy | `Java` | 2026-11-27 |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](problems/1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer) | 🟩 Easy | `Java` | 2026-11-27 |
-| 3360 | [Stone Removal Game](problems/3360-Stone-Removal-Game) | 🟩 Easy | `Java` | 2026-11-26 |
 
 <details>
-<summary><strong>🟩 Easy</strong> — 61 solved</summary>
+<summary><strong>🟩 Easy</strong> — 62 solved</summary>
 
 | # | Problem | Difficulty | Language | Date |
 |:---:|:--------|:----------:|:--------:|:----:|
@@ -63,6 +63,7 @@
 | 509 | [Fibonacci Number](problems/0509-Fibonacci-Number) | 🟩 Easy | `Java` | 2026-11-22 |
 | 520 | [Detect Capital](problems/0520-Detect-Capital) | 🟩 Easy | `Java` | 2026-11-22 |
 | 541 | [Reverse String II](problems/0541-Reverse-String-II) | 🟩 Easy | `Java` | 2026-11-28 |
+| 605 | [Can Place Flowers](problems/0605-Can-Place-Flowers) | 🟩 Easy | `Java` | 2026-11-28 |
 | 682 | [Baseball Game](problems/0682-Baseball-Game) | 🟩 Easy | `Java` | 2026-11-15 |
 | 728 | [Self Dividing Numbers](problems/0728-Self-Dividing-Numbers) | 🟩 Easy | `Java` | 2026-11-22 |
 | 771 | [Jewels and Stones](problems/0771-Jewels-and-Stones) | 🟩 Easy | `Java` | 2026-11-22 |
